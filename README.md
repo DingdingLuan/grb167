@@ -1,6 +1,3 @@
-# grbmc
-2018-2019
+# grb167
 
-test for a while 
-
-can I upload this file?
+sub sample.
